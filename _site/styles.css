@@ -1,0 +1,11 @@
+/* css styles */
+/* Make navbar background match your name color */
+.navbar, .navbar.bg-primary {
+  background-color: #17696a !important;
+}
+
+/* Optional: Change navbar link text color for contrast */
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+  color: #fff !important;
+}

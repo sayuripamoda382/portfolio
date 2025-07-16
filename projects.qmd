@@ -1,0 +1,8 @@
+
+## 🧪 Projects
+
+**COVID-19 Pandemic in Russia (Individual – 2024)**
+
+In this project, I analyzed time series data on confirmed cases, deaths, recoveries, and active COVID-19 cases in Russia using R. For data visualization, I used the `ggplot2` package to create insightful plots that highlight trends and patterns throughout the pandemic.
+
+

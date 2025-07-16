@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+// Set background to dark aqua blue
+$body-bg: #119990 !default;        // Rich dark aqua blue
+$body-color: #ffffff !default;     // Pure white text
+
+// Navbar and accents
+$navbar-bg: #117a7a !default;      // Slightly deeper aqua for navbar
+$navbar-fg: #ffffff !default;      // White navbar text
+$primary: #11b6c6 !default;        // Aqua blue for accents
+
+// Links
+$link-color: #00e6e6 !default;     // Bright aqua for links
+
+// Code blocks
+$code-block-bg: #117a7a !default;  // Slightly lighter than background
+$code-block-color: #ffffff !default;
+
+// Headings
+$headings-color: #ffffff !default; // White headings
+
+// Buttons and accents
+$btn-primary-bg: #00b8b8 !default;
+$btn-primary-color: #ffffff !default;
+
+/*-- scss:rules --*/
+
+// Optional: Make sure all text is white for readability
+h1, h2, h3, h4, h5, h6, p, li, td, th {
+  color: #ffffff !important;
+}
