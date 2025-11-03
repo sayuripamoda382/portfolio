@@ -8,7 +8,7 @@ format: html
 You can download my CV as a PDF here:
 
 <div style="margin-top: 1rem;">
-  <a href="sayuri_pamoda_CV.pdf" download
+  <a href="sayuri_CV.pdf" download
      style="background-color: #17696a; color: white; padding: 0.8rem 1.6rem; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 1.1rem;">
     Download CV (PDF)
   </a>
